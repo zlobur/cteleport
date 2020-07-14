@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App", "App\App.csproj", "{10C8093D-6144-4711-BA69-10E82F93D87D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Services", "App.Services\App.Services.csproj", "{98524B35-4F30-435D-82D7-39C3D838582D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Models", "App.Models\App.Models.csproj", "{02206EE9-88DC-44E7-B953-3ED0585CD77B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10C8093D-6144-4711-BA69-10E82F93D87D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C8093D-6144-4711-BA69-10E82F93D87D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C8093D-6144-4711-BA69-10E82F93D87D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C8093D-6144-4711-BA69-10E82F93D87D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98524B35-4F30-435D-82D7-39C3D838582D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98524B35-4F30-435D-82D7-39C3D838582D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98524B35-4F30-435D-82D7-39C3D838582D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98524B35-4F30-435D-82D7-39C3D838582D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02206EE9-88DC-44E7-B953-3ED0585CD77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02206EE9-88DC-44E7-B953-3ED0585CD77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02206EE9-88DC-44E7-B953-3ED0585CD77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02206EE9-88DC-44E7-B953-3ED0585CD77B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C669449-811B-459D-950C-D08F8C340D0A}
+	EndGlobalSection
+EndGlobal
